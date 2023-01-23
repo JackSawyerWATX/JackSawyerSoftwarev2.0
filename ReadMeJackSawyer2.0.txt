@@ -14,12 +14,18 @@ THINGS TO FINISH ON THE WEBSITE:
 3. Each picture in My Reputation needs to be in a round frame, the the Name, Title, aligned to the right of the picture with the quote directly belieth the Name and Title.
 	
 		/--\
-	    / 0  \	ERNEST HEMMINGWAY, SUPREME AMERICAN LITERATURIST
-	   | ---  |	"There will be no tomorrow if we don't first finish today"
-	   |  |   |
-	    \ /\ /
-          \--/ 
+	   / 0  \	ERNEST HEMMINGWAY, SUPREME AMERICAN LITERATURIST
+	  | ---  |	"There will be no tomorrow if we don't first finish today"
+	  |  |   |
+	   \ /\ /
+        \--/ 
 
 4. Contact buttons need to be changed to a recognizable icon, linked with the available HREFs in the existing indexed HTML, adding GitHub and LinkedIn to those lists instead of inside the footer.
 
 5. Buttons in sidebar must activate the page to scroll to the coresponding page item.
+
+6. An attempt to create an API is in the JS now.
+	A. I need to create an event for it in HTML.
+	B. Style it in CSS.
+	C. Trim the information down to where it displays the search box an dits parameters to the homepage.
+	D. Connect the JS to the HTML when finished. 
